@@ -31,7 +31,7 @@ Looking for help ? Join the [Discord](https://discord.com/invite/p7QTm2gUyf) !
 
 ⭕ MySQL support
 
-⭕ **Velocity cross-server pet sync** — active pets follow players seamlessly between servers on a Velocity network *(see [mcpets-velocity/README.md](mcpets-velocity/README.md))*
+⭕ **Velocity cross-server pet sync** — active pets follow players seamlessly between servers on a Velocity network *(see [mcpets-velocity/README.md](bukkit/README.md))*
 
 ✨ Need a demo pet to start with ? Check out [Sleepy the Otter](https://mcmodels.net/products/11051/sleepy-the-otter) !
 
@@ -52,7 +52,7 @@ This fork adds a companion Velocity proxy plugin (`mcpets-velocity/`) that keeps
 3. Drop `MCPets-Velocity-<version>.jar` into your Velocity proxy's `plugins/` folder
 4. Configure which servers to sync in `plugins/mcpets-velocity/config.yml` on the proxy
 
-See [mcpets-velocity/README.md](mcpets-velocity/README.md) for full setup instructions and configuration options.
+See [mcpets-velocity/README.md](bukkit/README.md) for full setup instructions and configuration options.
 
 ---
 
